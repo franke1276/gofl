@@ -1,0 +1,6 @@
+[package]
+name = "gofl"
+version = "0.1.0"
+authors = ["Christian Franke <chriss@frankeonline.net>"]
+
+[dependencies]
